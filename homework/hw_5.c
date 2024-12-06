@@ -1,3 +1,5 @@
+/*삽입정렬을 배열이 아닌 리스트(혹은 이중연결 리스트)로 구현하시오*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
